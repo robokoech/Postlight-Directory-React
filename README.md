@@ -1,6 +1,5 @@
 # Postlight-Directory-React
 
-In order to keep everything simple I’ve setup a Github repo for this project and it can be reached here: https://github.com/robokoech/Postlight-Directory-React 
 I created the employee directory using React so after downloading the project to your local system and navigating to the the project in your terminal, use the following two prompts to get everything up and running:
 
 
